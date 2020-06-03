@@ -1,0 +1,40 @@
+/** HEADER **/
+#header-nav {
+    background-color:grey;
+    border-radius: 0;
+    border: 0;
+}
+
+.navbar-brand {
+    padding-top: 25px;
+    
+}
+.navbar-brand h1 { /*  name */
+    color:black;
+    font-size: 1.5em;
+    font-weight: bold;
+    
+    margin-top: 0;
+    margin-bottom: 0;
+    line-height: .75;
+}
+
+.s{
+    
+    background-color: white;
+    border:1px solid black;
+    
+}
+
+.a{
+    background-color: grey;
+    margin:35px;
+}
+.navbar-header button.navbar-toggle, .navbar-header .icon-bar {
+    border: 2px solid black;
+  }
+.navbar-header button.navbar-toggle {
+    clear: both;
+    margin-top: -30px;
+  }
+
